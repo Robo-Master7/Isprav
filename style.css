@@ -47,13 +47,7 @@ img {
 .header-logo-subtitle {
 }
 
-/* Нужно купить:
-    - кефир
-    - батон
-    - шоколадку с сыром
-    - яблок и огурцов на салат
-    - сметану
- */
+
 
 .order-button {
   display: inline-block;
@@ -328,11 +322,7 @@ p {
   margin: 0 0 50px;
 }
 
-.contacts-text h2 {
-}
 
-.contacts-social {
-}
 
 .social-link {
   display: inline-block;
@@ -372,18 +362,18 @@ p {
   justify-content: center;
   align-items: center;
   background-color: rgba(0, 0, 0, 0.5);
-  z-index: 5000;
+
 }
 
 .order-modal {
+  
   position: relative;
-  top: 200px;
-  left: 200px;
+
   flex: 0 0 600px;
   background-color: white;
   padding: 30px;
   border-radius: 10px;
-  transform: scale(0.3, 0.3);
+
 }
 
 .hidden {
@@ -416,9 +406,7 @@ p {
   transform: rotate(720deg);
 }
 
-.form-group {
-  margin: 0 0 10px;
-}
+
 
 input,
 textarea {
